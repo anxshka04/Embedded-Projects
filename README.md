@@ -7,5 +7,5 @@ Arduino codes written for IEEE-SBM as a working member.
 | Three LEDs in Series | ![seriesss](https://user-images.githubusercontent.com/77496255/189623121-4814550b-c89a-4e83-a883-837429227e0f.png)|
 | LCD coour Detector |![lcd](https://user-images.githubusercontent.com/77496255/189972243-d0c703bb-f736-4e6b-8dc8-fddfa75f48ab.png)|
 | Controlling LED via IR sensor| ![ir](https://user-images.githubusercontent.com/77496255/189971522-35e2f743-e57a-4b7b-be94-7b396e8b3e88.png)|
-| LED PWM(Pulse width modulation) | ![pwm](https://user-images.githubusercontent.com/77496255/189973208-eee6950b-deba-4214-8cae-8b7bfcba149b.png) |
+| LED PWM (Pulse width modulation) | ![pwm](https://user-images.githubusercontent.com/77496255/189973208-eee6950b-deba-4214-8cae-8b7bfcba149b.png) |
 | Paragraph | Text |
